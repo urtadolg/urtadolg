@@ -1,8 +1,9 @@
 ## 👋 Hello, I’m Leandro Urtado
 - 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on Front-End web projects
 - 📫 How to reach me: leandro.urtado25@gmail.com
+
 <br>
 
 <div align="left">
