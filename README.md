@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Leandro Urtado
 - 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning Clean Code.
 - 💞️ I’m looking to collaborate on Front-End web projects
 - 📫 How to reach me: leandro.urtado25@gmail.com
 
