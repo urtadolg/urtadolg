@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning MERN (React, NodeJS, Express & MongoDB).
 - 💞️ I’m looking to collaborate on Front-End web projects
-- 📫 How to reach me: leandro.urtado25@gmail.com
+- 📫 How to reach me: leandro.urtado25@gmail.com | LinkedIn: https://www.linkedin.com/in/leandro-urtado/
 
 <br>
 
