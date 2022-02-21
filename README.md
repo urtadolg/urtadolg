@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Leandro Urtado
 - 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning MERN (React, NodeJS, Express & MongoDB), Linux and Git Flow
+- 🌱 I’m currently learning Docker and Kubernetes
 - 💞️ I’m looking to collaborate on Front-End web projects
 - 📫 How to reach me: leandro.urtado25@gmail.com | LinkedIn: https://www.linkedin.com/in/leandro-urtado/
 
@@ -13,13 +13,17 @@
 </div>
 
 <div style="display: inline_block" align="left"><br>
-  <img align="center" alt="urtadolg-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="urtadolg-Scss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="urtadolg-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="urtadolg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="urtadolg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="urtadolg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center" alt="urtadolg-React" height="20" src="https://img.shields.io/badge/-React-0d1117?&logo=React">
+  <img align="center" alt="urtadolg-Scss" height="20" src="https://img.shields.io/badge/-Sass-0d1117?&logo=sass">
+  <img align="center" alt="urtadolg-TypeScript" height="20" src="https://img.shields.io/badge/-TypeScript-0d1117?&logo=typescript">
+  <img align="center" alt="urtadolg-Javascript" height="20" src="https://img.shields.io/badge/-Javascript-0d1117?&logo=javascript">
+  <img align="center" alt="urtadolg-HTML" height="20" src="https://img.shields.io/badge/-HTML5-0d1117?&logo=html5">
+  <img align="center" alt="urtadolg-CSS" height="20" src="https://img.shields.io/badge/-CSS3-0d1117?&logo=css3&logoColor=1572B6">
+  <img align="center" alt="urtadolg-VSCode" height="20" src="https://img.shields.io/badge/-VSCode-0d1117?&logo=Visual%20Studio%20Code&logoColor=007ACC">
+  <img align="center" alt="urtadolg-Git" height="20" src="https://img.shields.io/badge/-Git-0d1117?&logo=git&logoColor=F05032">
+  <img align="center" alt="urtadolg-Node" height="20" src="https://img.shields.io/badge/-Node-0d1117?&logo=node.js">
 </div>
+  
   
   ##
  
