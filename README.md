@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Leandro Urtado
 - 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning Docker and Kubernetes
+- 🌱 I’m currently learning Unit Test
 - 💞️ I’m looking to collaborate on Front-End web projects
 - 📫 How to reach me: leandro.urtado25@gmail.com | LinkedIn: https://www.linkedin.com/in/leandro-urtado/
 
