@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Leandro Urtado
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning MongoDB, Material UI, Tailwind
 - 💞️ I’m looking to collaborate on Front-End web projects
 - 📫 How to reach me: leandro.urtado25@gmail.com | LinkedIn: https://www.linkedin.com/in/leandro-urtado/
 
