@@ -2,7 +2,10 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Front-End web projects
-- 📫 How to reach me: leandro.urtado25@gmail.com | LinkedIn: https://www.linkedin.com/in/leandro-urtado/
+- 📫 How to reach me: <br/><br/> 
+Email: leandro.urtado25@gmail.com <br/>
+LinkedIn: https://www.linkedin.com/in/leandro-urtado/ <br/>
+Portfolio: https://leandrourtado.netlify.app/
 
 <br>
 
