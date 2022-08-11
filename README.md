@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Leandro Urtado
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Front-End web projects
 - 📫 How to reach me: <br/><br/> 
 Email: leandro.urtado25@gmail.com <br/>
