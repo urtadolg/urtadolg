@@ -1,13 +1,12 @@
-# Hello, I’m Leandro Urtado
+### Hello, I’m Leandro Urtado
 
-Front End Web Developer</br>
-<a href="https://leandrourtado.netlify.app/">Portfolio</a>
+Frontend Developer. <b><a href="https://leandrourtado.netlify.app/">Portfolio</a></b></br>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urtadolg&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+  <a href = "mailto:leandro.urtado25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leandro-urtado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<div style="display: inline_block" align="left"><br>
+### Technologies
+<div style="display: inline_block" align="left">
   <img align="center" alt="urtadolg-React" height="20" src="https://img.shields.io/badge/-React.js-0d1117?&logo=React">
   <img align="center" alt="urtadolg-React" height="20" src="https://img.shields.io/badge/-Next.js-0d1117?&logo=nextjs">
   <img align="center" alt="urtadolg-React" height="20" src="https://img.shields.io/badge/-Zustand-0d1117?&logo=zustand">
@@ -25,16 +24,4 @@ Front End Web Developer</br>
   <img align="center" alt="urtadolg-Node" height="20" src="https://img.shields.io/badge/-Node-0d1117?&logo=node.js">
   <img align="center" alt="urtadolg-Git" height="20" src="https://img.shields.io/badge/-Git-0d1117?&logo=git&logoColor=F05032">
   <img align="center" alt="urtadolg-Node" height="20" src="https://img.shields.io/badge/-Azure Devops-0d1117?&logo=azuredevops&logoColor=007ACC">
-
 </div>
-  
-  
-  ##
- 
-<div> 
-  <a href = "mailto:leandro.urtado25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leandro-urtado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  
-  
-</div>
-  
