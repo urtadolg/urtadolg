@@ -1,6 +1,7 @@
 ### Hello, I’m Leandro Urtado
 
-Frontend Developer. <b><a href="https://leandrourtado.netlify.app/">Portfolio</a></b></br>
+Frontend Developer. </br>
+<b><a href="https://leandrourtado.netlify.app/">Portfolio</a></b></br>
 
   <a href = "mailto:leandro.urtado25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandro-urtado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
