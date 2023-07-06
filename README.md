@@ -1,6 +1,6 @@
 ### Hello, I’m Leandro Urtado
 
-Frontend Developer. </br>
+Frontend Developer @ VExpenses. </br>
 <b><a href="https://leandrourtado.netlify.app/">Portfolio</a></b></br>
 
   <a href = "mailto:leandro.urtado25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
